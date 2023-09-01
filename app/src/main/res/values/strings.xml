@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">HelloWorld</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="reset">RESET</string>
+    <string name="result">RESULT</string>
 </resources>
